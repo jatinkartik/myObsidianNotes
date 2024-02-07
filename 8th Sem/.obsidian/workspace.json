@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "7e59a126617914dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "77c276ebe38ea3e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a61c4409f73971e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Big Data/Untitled.canvas",
+                "viewState": {
+                  "x": 200,
+                  "y": 200,
+                  "zoom": -1.0534392589614605
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b110832c9f407e86",
+    "type": "split",
+    "children": [
+      {
+        "id": "179e85454266fbb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5129a462d531d647",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c4b260c3431dd15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9dd1c4b8678602e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba0853991155af23",
+    "type": "split",
+    "children": [
+      {
+        "id": "61451833122434c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ef0650de10ca5fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Big Data/Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6847918cfc550045",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Big Data/Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a448bd19bfc8a8f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a497d962814c5979",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Big Data/Untitled.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7a61c4409f73971e",
+  "lastOpenFiles": [
+    "Big Data/Welcome to Big Data Notes.md",
+    "Big Data/Untitled.canvas",
+    "big data notes.md",
+    "Big Data/1. Apache Spark.md",
+    "create a l[[1. Apache Spark.md",
+    "create a link.md"
+  ]
+}
