@@ -1,24 +1,21 @@
 {
   "main": {
-    "id": "7e59a126617914dd",
+    "id": "e47c8b8e413e0b30",
     "type": "split",
     "children": [
       {
-        "id": "77c276ebe38ea3e1",
+        "id": "5399366bf016c179",
         "type": "tabs",
         "children": [
           {
-            "id": "7a61c4409f73971e",
+            "id": "eb0867873250f3a0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Big Data/Untitled.canvas",
-                "viewState": {
-                  "x": 200,
-                  "y": 200,
-                  "zoom": -1.0534392589614605
-                }
+                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -28,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b110832c9f407e86",
+    "id": "3452bbb940c2cb6c",
     "type": "split",
     "children": [
       {
-        "id": "179e85454266fbb9",
+        "id": "5ca28d39afad46dd",
         "type": "tabs",
         "children": [
           {
-            "id": "5129a462d531d647",
+            "id": "53493c90e9c65faa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +43,7 @@
             }
           },
           {
-            "id": "5c4b260c3431dd15",
+            "id": "090f2df0214e280e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +58,7 @@
             }
           },
           {
-            "id": "9dd1c4b8678602e6",
+            "id": "037535c49d7c61eb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba0853991155af23",
+    "id": "6014b6c9c930afea",
     "type": "split",
     "children": [
       {
-        "id": "61451833122434c5",
+        "id": "18ffc0fb795bbdf6",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef0650de10ca5fe",
+            "id": "ab1fbf1648bf0fd1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/Untitled.canvas",
+                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,19 +97,19 @@
             }
           },
           {
-            "id": "6847918cfc550045",
+            "id": "3ea61bb8e6261548",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/Untitled.canvas",
+                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a448bd19bfc8a8f7",
+            "id": "4860de144cd23ff5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,12 +120,12 @@
             }
           },
           {
-            "id": "a497d962814c5979",
+            "id": "feb207ee237762a1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/Untitled.canvas"
+                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md"
               }
             }
           }
@@ -149,13 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a61c4409f73971e",
-  "lastOpenFiles": [
-    "Big Data/Welcome to Big Data Notes.md",
-    "Big Data/Untitled.canvas",
-    "big data notes.md",
-    "Big Data/1. Apache Spark.md",
-    "create a l[[1. Apache Spark.md",
-    "create a link.md"
-  ]
+  "active": "eb0867873250f3a0",
+  "lastOpenFiles": []
 }
