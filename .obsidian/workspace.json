@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md",
+                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/12.  Firewalld ( setup and its Configuration ).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.500732421875
   },
   "right": {
     "id": "6014b6c9c930afea",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md",
+                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/12.  Firewalld ( setup and its Configuration ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md",
+                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/12.  Firewalld ( setup and its Configuration ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md"
+                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/12.  Firewalld ( setup and its Configuration ).md"
               }
             }
           }
@@ -147,5 +147,23 @@
     }
   },
   "active": "eb0867873250f3a0",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "OSCP/LINUX/LINUX FUND./1. cut, awk, sort, uniq.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/1. Creating a local repo. (yum server).md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/2. Network file and Command(ifup, ifdown, tcpdump and netstat).md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/3. Nic Info(ethtool) and Port Bonding.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/4. Network(nmcli) configuration.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/5. Ftp Server(vsftpd) and configuration.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/6.  RPM (advanced package management rpm).md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/7. Rollback ( yum upate vs upgrade ).md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/8. Timedate (timedatectl, ntp and chronyd).md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/9. OpenLdap (openldap and slapd).md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/11. Dhcp server and its configuration.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/12.  Firewalld ( setup and its Configuration ).md",
+    "OSCP/LINUX/LINUX FUND./4. ACL , setfacl, getfacl.md",
+    "OSCP/LINUX/LINUX FUND./3. Tar, Gzip.md",
+    "OSCP/LINUX/LINUX FUND./2. Grep , Egrep, Wc.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/Untitled"
+  ]
 }
