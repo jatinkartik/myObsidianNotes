@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5399366bf016c179",
+        "id": "905650bb6bf66fe0",
         "type": "tabs",
         "children": [
           {
-            "id": "eb0867873250f3a0",
+            "id": "cbb79599cdaab458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/12.  Firewalld ( setup and its Configuration ).md",
-                "mode": "source",
+                "file": "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/12.  Firewalld ( setup and its Configuration ).md",
+                "file": "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/12.  Firewalld ( setup and its Configuration ).md",
+                "file": "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/LINUX/NETWORK. SERVICE UPDATE/12.  Firewalld ( setup and its Configuration ).md"
+                "file": "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md"
               }
             }
           }
@@ -146,24 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb0867873250f3a0",
+  "active": "cbb79599cdaab458",
   "lastOpenFiles": [
-    "OSCP/LINUX/LINUX FUND./1. cut, awk, sort, uniq.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/1. Creating a local repo. (yum server).md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/2. Network file and Command(ifup, ifdown, tcpdump and netstat).md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/3. Nic Info(ethtool) and Port Bonding.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/4. Network(nmcli) configuration.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/5. Ftp Server(vsftpd) and configuration.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/6.  RPM (advanced package management rpm).md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/7. Rollback ( yum upate vs upgrade ).md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/8. Timedate (timedatectl, ntp and chronyd).md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/9. OpenLdap (openldap and slapd).md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/11. Dhcp server and its configuration.md",
+    "OSCP/LINUX/Disk Man. And Run level/5. LVM and its configuration.md",
+    "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md",
+    "OSCP/LINUX/Disk Man. And Run level/4. Create a partition and mount it.md",
+    "OSCP/LINUX/Disk Man. And Run level/3.  df and fdisk.md",
+    "OSCP/LINUX/Disk Man. And Run level/2. Computer and linux Boot process.md",
+    "OSCP/LINUX/Disk Man. And Run level/1. Run level.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/13. Tune System Performance (tuned,nice and renice).md",
+    "OSCP/LINUX/SYSTEM ADM./11. Special Permission (setuid,setgid,stickybit).md",
+    "OSCP/LINUX/Disk Man. And Run level",
+    "OSCP/LINUX/SYSTEM ADM./10. Enviroment Variable.md",
+    "OSCP/LINUX/SYSTEM ADM./9. Script , Terminal keys.md",
+    "OSCP/LINUX/SYSTEM ADM./7. Network Monitoring(df, du, dmesg, iostat, and netstat).md",
+    "OSCP/LINUX/SYSTEM ADM./6. Password Aging, Login.defs.md",
+    "OSCP/LINUX/SYSTEM ADM./5. Process (ps).md",
+    "OSCP/LINUX/SYSTEM ADM./4. ACL , setfacl, getfacl.md",
+    "OSCP/LINUX/SYSTEM ADM./2. Linux Directory Service.md",
+    "OSCP/LINUX/SYSTEM ADM./1. Process, Jobs and Scheduling.md",
     "OSCP/LINUX/NETWORK. SERVICE UPDATE/12.  Firewalld ( setup and its Configuration ).md",
-    "OSCP/LINUX/LINUX FUND./4. ACL , setfacl, getfacl.md",
-    "OSCP/LINUX/LINUX FUND./3. Tar, Gzip.md",
-    "OSCP/LINUX/LINUX FUND./2. Grep , Egrep, Wc.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/11. Dhcp server and its configuration.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/9. OpenLdap (openldap and slapd).md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/8. Timedate (timedatectl, ntp and chronyd).md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/7. Rollback ( yum upate vs upgrade ).md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/6.  RPM (advanced package management rpm).md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/5. Ftp Server(vsftpd) and configuration.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/4. Network(nmcli) configuration.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/3. Nic Info(ethtool) and Port Bonding.md",
     "OSCP/LINUX/NETWORK. SERVICE UPDATE/Untitled"
   ]
 }
