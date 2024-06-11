@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95a2a26e975d336e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/4. Arp, ICMP echo and Ethernet Frame.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/LINUX/Disk Man. And Run level/11. NFS.md",
+                "file": "CCNA/4. Arp, ICMP echo and Ethernet Frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/LINUX/Disk Man. And Run level/11. NFS.md",
+                "file": "CCNA/4. Arp, ICMP echo and Ethernet Frame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/LINUX/Disk Man. And Run level/11. NFS.md"
+                "file": "CCNA/4. Arp, ICMP echo and Ethernet Frame.md"
               }
             }
           }
@@ -146,11 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbb79599cdaab458",
+  "active": "53493c90e9c65faa",
   "lastOpenFiles": [
-    "OSCP/LINUX/Disk Man. And Run level/3.  df and fdisk.md",
+    "100 Vulnerabilities/SQli/2. Apprentice SQL injection vulnerability allowing login bypass.md",
+    "100 Vulnerabilities/SQli/1. Apprentice SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
+    "CCNA/1. Intro to CLI (Router).md",
     "OSCP/LINUX/Disk Man. And Run level/1. Run level.md",
-    "OSCP/LINUX/Disk Man. And Run level/2. Computer and linux Boot process.md",
+    "CCNA/4. Arp, ICMP echo and Ethernet Frame.md",
+    "CCNA/3. Mac Address and Frame Casting.md",
+    "CCNA/2. LAN Switching.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/12. Firewalld ( setup and its Configuration ).md",
+    "CCNA",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/13. Tune System Performance (tuned,nice and renice).md",
+    "OSCP/LINUX/LINUX FUND./2. Grep , Egrep, Wc.md",
+    "OSCP/LINUX/LINUX FUND./1. Cut, awk, sort, uniq.md",
     "OSCP/LINUX/Disk Man. And Run level/12. Samba Server on linux.md",
     "OSCP/LINUX/Disk Man. And Run level/11. NFS.md",
     "OSCP/LINUX/Disk Man. And Run level/10. Disk Cloning (dd command).md",
@@ -158,23 +180,15 @@
     "OSCP/LINUX/Disk Man. And Run level/8. Filesystem Check (fsck, xfs_repair).md",
     "OSCP/LINUX/Disk Man. And Run level/7. SWAP and how to start it..md",
     "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/6.  RPM (advanced package management rpm).md",
     "OSCP/LINUX/Disk Man. And Run level/5. LVM and its configuration.md",
     "OSCP/LINUX/Disk Man. And Run level/4. Create a partition and mount it.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/13. Tune System Performance (tuned,nice and renice).md",
+    "OSCP/LINUX/Disk Man. And Run level/3. df and fdisk.md",
+    "OSCP/LINUX/Disk Man. And Run level/2. Computer and linux Boot process.md",
+    "OSCP/Welcome to OSCP.md",
     "OSCP/LINUX/SYSTEM ADM./11. Special Permission (setuid,setgid,stickybit).md",
-    "OSCP/LINUX/Disk Man. And Run level",
     "OSCP/LINUX/SYSTEM ADM./10. Enviroment Variable.md",
     "OSCP/LINUX/SYSTEM ADM./9. Script , Terminal keys.md",
-    "OSCP/LINUX/SYSTEM ADM./7. Network Monitoring(df, du, dmesg, iostat, and netstat).md",
-    "OSCP/LINUX/SYSTEM ADM./6. Password Aging, Login.defs.md",
-    "OSCP/LINUX/SYSTEM ADM./5. Process (ps).md",
-    "OSCP/LINUX/SYSTEM ADM./4. ACL , setfacl, getfacl.md",
-    "OSCP/LINUX/SYSTEM ADM./2. Linux Directory Service.md",
-    "OSCP/LINUX/SYSTEM ADM./1. Process, Jobs and Scheduling.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/12.  Firewalld ( setup and its Configuration ).md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/11. Dhcp server and its configuration.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md",
+    "OSCP/LINUX/Disk Man. And Run level",
     "OSCP/LINUX/NETWORK. SERVICE UPDATE/Untitled"
   ]
 }
