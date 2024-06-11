@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md",
-                "mode": "preview",
+                "file": "OSCP/LINUX/Disk Man. And Run level/11. NFS.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md",
+                "file": "OSCP/LINUX/Disk Man. And Run level/11. NFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md",
+                "file": "OSCP/LINUX/Disk Man. And Run level/11. NFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md"
+                "file": "OSCP/LINUX/Disk Man. And Run level/11. NFS.md"
               }
             }
           }
@@ -148,12 +148,19 @@
   },
   "active": "cbb79599cdaab458",
   "lastOpenFiles": [
-    "OSCP/LINUX/Disk Man. And Run level/5. LVM and its configuration.md",
-    "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md",
-    "OSCP/LINUX/Disk Man. And Run level/4. Create a partition and mount it.md",
     "OSCP/LINUX/Disk Man. And Run level/3.  df and fdisk.md",
-    "OSCP/LINUX/Disk Man. And Run level/2. Computer and linux Boot process.md",
     "OSCP/LINUX/Disk Man. And Run level/1. Run level.md",
+    "OSCP/LINUX/Disk Man. And Run level/2. Computer and linux Boot process.md",
+    "OSCP/LINUX/Disk Man. And Run level/12. Samba Server on linux.md",
+    "OSCP/LINUX/Disk Man. And Run level/11. NFS.md",
+    "OSCP/LINUX/Disk Man. And Run level/10. Disk Cloning (dd command).md",
+    "OSCP/LINUX/Disk Man. And Run level/9. Advance Disk Management ( stratis).md",
+    "OSCP/LINUX/Disk Man. And Run level/8. Filesystem Check (fsck, xfs_repair).md",
+    "OSCP/LINUX/Disk Man. And Run level/7. SWAP and how to start it..md",
+    "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/6.  RPM (advanced package management rpm).md",
+    "OSCP/LINUX/Disk Man. And Run level/5. LVM and its configuration.md",
+    "OSCP/LINUX/Disk Man. And Run level/4. Create a partition and mount it.md",
     "OSCP/LINUX/NETWORK. SERVICE UPDATE/13. Tune System Performance (tuned,nice and renice).md",
     "OSCP/LINUX/SYSTEM ADM./11. Special Permission (setuid,setgid,stickybit).md",
     "OSCP/LINUX/Disk Man. And Run level",
@@ -168,13 +175,6 @@
     "OSCP/LINUX/NETWORK. SERVICE UPDATE/12.  Firewalld ( setup and its Configuration ).md",
     "OSCP/LINUX/NETWORK. SERVICE UPDATE/11. Dhcp server and its configuration.md",
     "OSCP/LINUX/NETWORK. SERVICE UPDATE/10. DNS configuration and Setup.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/9. OpenLdap (openldap and slapd).md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/8. Timedate (timedatectl, ntp and chronyd).md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/7. Rollback ( yum upate vs upgrade ).md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/6.  RPM (advanced package management rpm).md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/5. Ftp Server(vsftpd) and configuration.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/4. Network(nmcli) configuration.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/3. Nic Info(ethtool) and Port Bonding.md",
     "OSCP/LINUX/NETWORK. SERVICE UPDATE/Untitled"
   ]
 }
