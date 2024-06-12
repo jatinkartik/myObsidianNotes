@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/4. Arp, ICMP echo and Ethernet Frame.md",
+                "file": "OSCP/LINUX/Disk Man. And Run level/3. df and fdisk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c5e88ced930abb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/LINUX/Additional/1. SELINUX.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCNA/4. Arp, ICMP echo and Ethernet Frame.md",
+                "file": "OSCP/LINUX/Additional/1. SELINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCNA/4. Arp, ICMP echo and Ethernet Frame.md",
+                "file": "OSCP/LINUX/Additional/1. SELINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA/4. Arp, ICMP echo and Ethernet Frame.md"
+                "file": "OSCP/LINUX/Additional/1. SELINUX.md"
               }
             }
           }
@@ -159,35 +171,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53493c90e9c65faa",
+  "active": "4c5e88ced930abb3",
   "lastOpenFiles": [
-    "100 Vulnerabilities/SQli/2. Apprentice SQL injection vulnerability allowing login bypass.md",
-    "100 Vulnerabilities/SQli/1. Apprentice SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
-    "CCNA/1. Intro to CLI (Router).md",
-    "OSCP/LINUX/Disk Man. And Run level/1. Run level.md",
-    "CCNA/4. Arp, ICMP echo and Ethernet Frame.md",
-    "CCNA/3. Mac Address and Frame Casting.md",
-    "CCNA/2. LAN Switching.md",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/12. Firewalld ( setup and its Configuration ).md",
-    "CCNA",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/13. Tune System Performance (tuned,nice and renice).md",
-    "OSCP/LINUX/LINUX FUND./2. Grep , Egrep, Wc.md",
-    "OSCP/LINUX/LINUX FUND./1. Cut, awk, sort, uniq.md",
-    "OSCP/LINUX/Disk Man. And Run level/12. Samba Server on linux.md",
-    "OSCP/LINUX/Disk Man. And Run level/11. NFS.md",
-    "OSCP/LINUX/Disk Man. And Run level/10. Disk Cloning (dd command).md",
-    "OSCP/LINUX/Disk Man. And Run level/9. Advance Disk Management ( stratis).md",
-    "OSCP/LINUX/Disk Man. And Run level/8. Filesystem Check (fsck, xfs_repair).md",
     "OSCP/LINUX/Disk Man. And Run level/7. SWAP and how to start it..md",
+    "OSCP/LINUX/Additional/1. SELINUX.md",
+    "OSCP/LINUX/Additional",
     "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md",
     "OSCP/LINUX/Disk Man. And Run level/5. LVM and its configuration.md",
     "OSCP/LINUX/Disk Man. And Run level/4. Create a partition and mount it.md",
     "OSCP/LINUX/Disk Man. And Run level/3. df and fdisk.md",
     "OSCP/LINUX/Disk Man. And Run level/2. Computer and linux Boot process.md",
+    "OSCP/LINUX/Disk Man. And Run level/1. Run level.md",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/12. Firewalld ( setup and its Configuration ).md",
+    "OSCP/LINUX/LINUX FUND./1. Cut, awk, sort, uniq.md",
+    "CCNA/4. Arp, ICMP echo and Ethernet Frame.md",
+    "100 Vulnerabilities/SQli/2. Apprentice SQL injection vulnerability allowing login bypass.md",
+    "100 Vulnerabilities/SQli/1. Apprentice SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
+    "CCNA/1. Intro to CLI (Router).md",
+    "CCNA/3. Mac Address and Frame Casting.md",
+    "CCNA/2. LAN Switching.md",
+    "CCNA",
+    "OSCP/LINUX/NETWORK. SERVICE UPDATE/13. Tune System Performance (tuned,nice and renice).md",
+    "OSCP/LINUX/LINUX FUND./2. Grep , Egrep, Wc.md",
+    "OSCP/LINUX/Disk Man. And Run level/12. Samba Server on linux.md",
+    "OSCP/LINUX/Disk Man. And Run level/11. NFS.md",
+    "OSCP/LINUX/Disk Man. And Run level/10. Disk Cloning (dd command).md",
+    "OSCP/LINUX/Disk Man. And Run level/9. Advance Disk Management ( stratis).md",
+    "OSCP/LINUX/Disk Man. And Run level/8. Filesystem Check (fsck, xfs_repair).md",
     "OSCP/Welcome to OSCP.md",
     "OSCP/LINUX/SYSTEM ADM./11. Special Permission (setuid,setgid,stickybit).md",
     "OSCP/LINUX/SYSTEM ADM./10. Enviroment Variable.md",
-    "OSCP/LINUX/SYSTEM ADM./9. Script , Terminal keys.md",
     "OSCP/LINUX/Disk Man. And Run level",
     "OSCP/LINUX/NETWORK. SERVICE UPDATE/Untitled"
   ]
