@@ -16,7 +16,9 @@
                 "file": "OSCP/LINUX/Disk Man. And Run level/11. NFS.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "11. NFS"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "OSCP/LINUX/Disk Man. And Run level/3. df and fdisk.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "3. df and fdisk"
             }
           },
           {
@@ -40,11 +44,41 @@
                 "file": "CCNA/6.  Switch Interface and Its Configuration.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "6.  Switch Interface and Its Configuration"
+            }
+          },
+          {
+            "id": "eeb33ba57f5f261b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/LINUX/Disk Man. And Run level/9. Advance Disk Management ( stratis).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Advance Disk Management ( stratis)"
+            }
+          },
+          {
+            "id": "047dd93ac43e36f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oscp Structured learning  path.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oscp Structured learning  path"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -63,8 +97,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +116,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCNA/6.  Switch Interface and Its Configuration.md",
+                "file": "OSCP/LINUX/Disk Man. And Run level/9. Advance Disk Management ( stratis).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +159,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 9. Advance Disk Management ( stratis)"
             }
           },
           {
@@ -127,10 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCNA/6.  Switch Interface and Its Configuration.md",
+                "file": "OSCP/LINUX/Disk Man. And Run level/9. Advance Disk Management ( stratis).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 9. Advance Disk Management ( stratis)"
             }
           },
           {
@@ -141,7 +186,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA/6.  Switch Interface and Its Configuration.md"
-              }
+                "file": "OSCP/LINUX/Disk Man. And Run level/9. Advance Disk Management ( stratis).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 9. Advance Disk Management ( stratis)"
             }
           }
         ]
@@ -171,11 +220,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53493c90e9c65faa",
+  "active": "047dd93ac43e36f4",
   "lastOpenFiles": [
-    "CCNA/5. IPV4 and Configuration.md",
-    "CCNA/6.  Switch Interface and Its Configuration.md",
-    "OSCP/LINUX/SYSTEM ADM./8. Hostnamectl.md",
+    "Welcome to OSCP.md",
+    "README.md",
+    "Oscp Structured learning  path.md",
+    "OSCP/LINUX/LINUX FUND./2. Grep , Egrep, Wc.md",
+    "OSCP/LINUX/LINUX FUND./1. Cut, awk, sort, uniq.md",
+    "OSCP/LINUX/Disk Man. And Run level/8. Filesystem Check (fsck, xfs_repair).md",
     "OSCP/LINUX/Disk Man. And Run level/7. SWAP and how to start it..md",
     "OSCP/LINUX/Disk Man. And Run level/6. Extend disk to LVM.md",
     "OSCP/LINUX/Disk Man. And Run level/5. LVM and its configuration.md",
@@ -184,23 +236,20 @@
     "OSCP/LINUX/Disk Man. And Run level/2. Computer and linux Boot process.md",
     "OSCP/LINUX/Disk Man. And Run level/1. Run level.md",
     "OSCP/LINUX/Additional/1. SELINUX.md",
+    "OSCP/LINUX/SYSTEM ADM./11. Special Permission (setuid,setgid,stickybit).md",
+    "OSCP/LINUX/SYSTEM ADM./9. Script , Terminal keys.md",
+    "OSCP/LINUX/SYSTEM ADM./8. Hostnamectl.md",
+    "OSCP/LINUX/SYSTEM ADM./10. Enviroment Variable.md",
+    "CCNA/1. Intro to CLI (Router).md",
+    "CCNA/5. IPV4 and Configuration.md",
+    "CCNA/6.  Switch Interface and Its Configuration.md",
     "CCNA/4. Arp, ICMP echo and Ethernet Frame.md",
     "CCNA/3. Mac Address and Frame Casting.md",
     "CCNA/2. LAN Switching.md",
-    "CCNA/1. Intro to CLI (Router).md",
     "OSCP/LINUX/LINUX FUND./4. ACL , setfacl, getfacl.md",
     "OSCP/LINUX/Disk Man. And Run level/11. NFS.md",
     "OSCP/LINUX/Additional",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/12. Firewalld ( setup and its Configuration ).md",
-    "OSCP/LINUX/LINUX FUND./1. Cut, awk, sort, uniq.md",
-    "100 Vulnerabilities/SQli/2. Apprentice SQL injection vulnerability allowing login bypass.md",
-    "100 Vulnerabilities/SQli/1. Apprentice SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
     "CCNA",
-    "OSCP/LINUX/NETWORK. SERVICE UPDATE/13. Tune System Performance (tuned,nice and renice).md",
-    "OSCP/LINUX/LINUX FUND./2. Grep , Egrep, Wc.md",
-    "OSCP/LINUX/Disk Man. And Run level/12. Samba Server on linux.md",
-    "OSCP/LINUX/Disk Man. And Run level/10. Disk Cloning (dd command).md",
-    "OSCP/LINUX/Disk Man. And Run level/9. Advance Disk Management ( stratis).md",
     "OSCP/LINUX/Disk Man. And Run level",
     "OSCP/LINUX/NETWORK. SERVICE UPDATE/Untitled"
   ]
